@@ -1,3 +1,5 @@
+package Aula2;
+
 public class ExerciciosAula2 {
     public static void main(String[] args) {
         String stringResultado = " O resultado é: ";

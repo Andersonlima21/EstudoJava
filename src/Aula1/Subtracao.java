@@ -1,3 +1,5 @@
+package Aula1;
+
 public class Subtracao {
     public static void main(String[] args){
         int a = 10;
